@@ -1,1 +1,1 @@
-console.log("Hello, OlenaBardyn!");
+console.log("OlenaBardyn web2025-1 olenabardyn3@gmail.com");
